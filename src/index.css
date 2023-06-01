@@ -67,6 +67,10 @@ code {
 .input-gr{
   margin-bottom: 30px;
 }
+.input-gr input{
+  font-size: 16px;
+  line-height: 22px;
+}
 .main-btn{
     color: #fff;
     background-color: #60a04c;

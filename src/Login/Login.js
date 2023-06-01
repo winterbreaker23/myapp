@@ -40,9 +40,10 @@ const Loginp=()=>{
                             Login to Decision Wise
                         </div>
                         <div className="input-gr">
-                        <label className="fo-16 fo-b6">Email</label>
+                            <label className="fo-16 fo-b6">Email</label>
                             <input
                               type="email"
+                              placeholder="email@email"
                               className="form-control"
                               id="email"
                               name="email"
@@ -53,6 +54,7 @@ const Loginp=()=>{
                         <label className="fo-16 fo-b6">Password</label>
                             <input
                               type="password"
+                              placeholder=""
                               className="form-control"
                               id="password"
                               name="password"
