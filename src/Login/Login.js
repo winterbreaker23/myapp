@@ -61,7 +61,7 @@ const Loginp=()=>{
                               onChange={e=>setPassword(e.target.value)}
                             />
                         </div>
-                        <button type="button" className="main-btn login-btn fo-16 fo-b6" onClick={checkuser} >
+                        <button type="button" className="main-btn login-btn fo-16 fo-b6" onClick={checkuser}>
                         Log in
                         </button>
                         <ToastContainer />
