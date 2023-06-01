@@ -11,3 +11,106 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.fo-24{
+  font-size: 24px;
+  line-height: 33px;
+}
+.fo-18 {
+  font-size: 18px;
+  line-height: 18px;
+}
+.fo-16{
+  font-size: 16px;
+  line-height: 22px;
+}
+.fo-b4{
+  font-weight: 400;
+}
+.fo-b8{
+  font-weight: 800;
+}
+.fo-b7{
+  font-weight: 700;
+}
+.fo-b6{
+  font-weight: 600;
+}
+.m-b-50{
+  margin-bottom: 50px;
+}
+.tt-center{
+  text-align: center;
+}
+.input-gr * {
+  display: block;
+}
+.input-gr label{
+  text-align: left;
+
+}
+.maincolor{
+ color: #60a04c;
+}
+.white{
+  color:white;
+}
+.input-gr input{
+    background-color: #bcc1cf !important;;
+    border: 1px solid #e7e7e7;
+    border-radius: 10px;
+    outline: none;
+    height: 22px;
+    padding: 10px 15px;
+    width: 295px;
+}
+.input-gr{
+  margin-bottom: 30px;
+}
+.main-btn{
+    color: #fff;
+    background-color: #60a04c;
+    border: 1px solid #60a04c;
+    padding: 14px 32px;
+    border-radius: 10px;
+    
+}
+.main-btn:hover{
+  cursor: pointer;
+}
+.login-btn{
+    width: 100%;
+    margin-top: 25px;
+    margin-bottom: 5px;
+}
+.d-block{
+  display: block;
+}
+.headerbtn{
+  display: flex;
+  gap:8px;
+  align-items: center;
+}
+.headerbtn div{
+    padding: 14px 32px;
+    border-radius: 10px;
+    width: max-content;
+    cursor: pointer;
+    text-align: center;
+}
+.linkg{
+  display: flex;
+}
+.linkbt{
+  display: block;
+  width: 36px;
+  height: 36px;
+  background-color: #e7e7e7;
+  color: black;
+  border-radius: 5px;
+  margin-left: 8px;
+  text-decoration: none;
+  text-align: center;
+  font-size: 22px;
+}
+
